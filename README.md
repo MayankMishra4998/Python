@@ -13,9 +13,3 @@ The goal is consistency: practice Python regularly, track progress, and build a 
 
 ## 🎯 Learning Roadmap
 - Day 1 → Basics: variables, data types, input/output
-- Day 2 → Control flow: if/else, loops
-- Day 3 → Functions and scope
-- Day 4 → Lists, tuples, sets, dictionaries
-- Day 5 → Object-Oriented Programming (classes, objects)
-- Day 6 → Modules and packages
-- Day
