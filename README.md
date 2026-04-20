@@ -13,3 +13,4 @@ The goal is consistency: practice Python regularly, track progress, and build a 
 
 ## 🎯 Learning Roadmap
 - Day 1 → Basics: variables, data types, input/output
+- Day 2 → 
