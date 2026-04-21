@@ -13,4 +13,6 @@ The goal is consistency: practice Python regularly, track progress, and build a 
 
 ## 🎯 Learning Roadmap
 - Day 1 → Basics: variables, data types, input/output
-- Day 2 → Operater's , if- else
+- Day 2 → Operater's , if- else 
+- Day 3 → Indexing , format specifiers 
+- Day 4 → Conditional Statements , Loops
