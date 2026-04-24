@@ -17,4 +17,4 @@ The goal is consistency: practice Python regularly, track progress, and build a 
 - Day 3 → Indexing , format specifiers 
 - Day 4 → Conditional Statements , Loops
 - Day 5 → Counter Timimg program
-- Day 6 → collection
+- Day 6 → collection , Shopping card program
