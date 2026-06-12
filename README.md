@@ -19,3 +19,5 @@ The goal is consistency: practice Python regularly, track progress, and build a 
 - Day 5 → Counter Timimg program
 - Day 6 → collection , Shopping card program
 - Day 7 
+
+
